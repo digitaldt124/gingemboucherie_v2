@@ -1,0 +1,29 @@
+body{
+    font-family:monserrat,sans-serif;
+    color: rgb(255, 255, 255);
+    border-radius: 2%;
+    text-align: center;
+    background-color: black;
+}
+h2{
+    font-size: 70px;
+}
+.boutton{
+    background-color: rgb(255, 255, 255); 
+    border: none;
+    color:black;
+    display: inline-block;
+    text-align: center;
+    padding: 1rem;
+    font-size:1rem;
+    margin: 20px 10px;
+    border-radius: 1rem;
+   text-decoration:none ;
+   cursor: pointer;
+}
+.hero{
+    padding: 250px 0;
+    margin: 30px;
+     font-family:monserrat,sans-serif ;
+ 
+}
